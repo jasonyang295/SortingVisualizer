@@ -1,3 +1,17 @@
+# Sorting Visualizer App built in React
+
+# Construction Details
+This application was bootstrapped in React and written in HTML, CSS, and Javascript. It solidified my understanding in JSX, imports, and many aspects of frontend development while allowing me to practice writing algorithms that are actually at play under the hood. 
+
+# Implementation 
+This app is hosted for free on GH pages. 
+
+You can find the readme file that came with the React file for any confusion on how to start your own react projects.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
