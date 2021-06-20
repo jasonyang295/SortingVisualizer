@@ -1,6 +1,6 @@
 {
   "name": "sortingvisualizer",
-  "homepage": "https://jasonyang295.github.io/sortingvisualizer/"
+  "homepage": "https://jasonyang295.github.io/sortingvisualizer/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
