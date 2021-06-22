@@ -4,20 +4,18 @@
 This application was bootstrapped in React and written in HTML, CSS, and Javascript. It solidified my understanding in JSX, imports, and many aspects of frontend development while allowing me to practice writing algorithms that are actually at play under the hood. https://jasonyang295.github.io/sortingvisualizer/
 
 ## Implementation 
-This app is hosted for free on GH pages. 
+This app is hosted for free on GH pages. In order to use the visualizer, click one of the sorts and watch it happen! When it finishes, you have to generate a new array -- the visualizer won't do it for you. 
 
-You can find the readme file that came with the React file for any confusion on how to start your own react projects.
-
-  In order to use the visualizer, click one of the sorts and watch it happen! When it finishes, you have to generate a new array -- the visualizer won't do it for you. 
+You can read the documentation which came with the React initial boostrap for any confusion on how to start your own react projects. All relevant documentation and cmds are listed below. 
 
 
 
 
 
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
