@@ -8,7 +8,7 @@ This app is hosted for free on GH pages.
 
 You can find the readme file that came with the React file for any confusion on how to start your own react projects.
 
-
+  In order to use the visualizer, click one of the sorts and watch it happen! When it finishes, you have to generate a new array -- the visualizer won't do it for you. 
 
 
 
