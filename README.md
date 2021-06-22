@@ -1,7 +1,7 @@
 # Sorting Visualizer App built in React
 
 ## Construction Details
-This application was bootstrapped in React and written in HTML, CSS, and Javascript. It solidified my understanding in JSX, imports, and many aspects of frontend development while allowing me to practice writing algorithms that are actually at play under the hood. 
+This application was bootstrapped in React and written in HTML, CSS, and Javascript. It solidified my understanding in JSX, imports, and many aspects of frontend development while allowing me to practice writing algorithms that are actually at play under the hood. https://jasonyang295.github.io/sortingvisualizer/
 
 ## Implementation 
 This app is hosted for free on GH pages. 
