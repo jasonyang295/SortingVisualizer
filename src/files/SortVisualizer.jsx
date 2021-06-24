@@ -4,6 +4,7 @@ import { getQuickSortAnimations } from '../algorithms/QuickSort';
 import { getInsertionSortAnimations } from '../algorithms/InsertionSort';
 import { getMergeSortAnimations } from '../algorithms/MergeSort';
 
+
 const ARR_LEN = 100;
 const MIN_NUM = 5;
 const MAX_NUM = 80;
@@ -45,6 +46,8 @@ export default function SortVisualizer(props) {
     const animations = getQuickSortAnimations(arr);
     animateArrayUpdate(animations);
   }
+
+ 
 
   function animateArrayUpdate(animations) {
     if (isSorting) return;
@@ -127,22 +130,22 @@ export default function SortVisualizer(props) {
         <ul>
           <li>
             <button className="app-button" onClick={initialiseArray}>
-              Create new array
+              Create New Array
             </button>
           </li>
           <li>
             <button className="app-button" onClick={mergeSort}>
-              Merge sort
+              Merge Sort
             </button>
           </li>
           <li>
             <button className="app-button" onClick={insertionSort}>
-              Insertion sort
+              Insertion Sort
             </button>
           </li>
           <li>
             <button className="app-button" onClick={quickSort}>
-              Quick sort
+              Quick Sort
             </button>
           </li>
         </ul>
