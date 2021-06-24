@@ -9,7 +9,7 @@ const ARR_LEN = 100;
 const MIN_NUM = 5;
 const MAX_NUM = 80;
 const DELAY = 5;
-const ACCESSED_COLOUR = 'purple';
+const ACCESSED_COLOUR = 'turquoise';
 const SORTED_COLOUR = 'green';
 
 export default function SortVisualizer(props) {
